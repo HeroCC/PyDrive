@@ -13,7 +13,7 @@ setup(
     description='Google Drive API made easy.',
     long_description=open('README.rst').read(),
     install_requires=[
-        "google-api-python-client >= 1.2",
+        "google-api-python-client >= 1.7.12",
         "oauth2client >= 4.0.0",
         "PyYAML >= 3.0",
     ],
